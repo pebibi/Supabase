@@ -43,7 +43,7 @@ export default function SignUpPage() {
               <Input id="password" name="password" required type="password" />
             </div>
             <Button formAction={signup} className="w-full">
-              Sign in
+              Sign up
             </Button>
           </form>
         </CardContent>
